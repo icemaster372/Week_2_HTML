@@ -1,0 +1,11 @@
+/* adding color to the body of the webpage */
+body {background-color: rgb(233, 161, 7);}
+
+/* Changing the color to header 1 */
+h1 {color: black;}
+
+
+p {color: rgb(153, 2, 184);}
+
+
+a {background-color: rgb(235, 16, 0);}
