@@ -1,21 +1,29 @@
-/* adding color to the body of the webpage */
-body {background-color: rgb(233, 161, 7);}
+/* adding color to the body of the webpage and changing the font */
+body {background-color: rgb(233, 161, 7);
+font-weight: bold;}
 
 /* Changing the color to header 1 */
 h1 {color: black;}
 
 /* changing the color to the first paragraph */
-p {color: rgba(172, 34, 241, 0.781);}
+p {color: rgba(172, 34, 241, 0.781);
+    font-weight: bold;
+}
 
 /* Adding a secondary backgrund color */
 a {
-    background-color: rgb(235, 16, 0);
+    background-color: rgb(233, 161, 7);
     text-decoration: none;
 }
-
+/* blended the backgroumd of the ul */
 ul {background-color: rgb(233, 161, 7);}
 
-
-li {color: rgb(172, 34, 241, 0.781);}
+/* changed the color to match the first paragraphand chyanging the font */
+li {color: rgb(172, 34, 241, 0.781);
+    font-weight: bold;
+}
+/* changed the color to the scond font and chaning the font */
+h2 {color: rgb(172, 34, 241, 0.781);
+font-weight: bold;}
 
 
