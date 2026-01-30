@@ -4,8 +4,18 @@ body {background-color: rgb(233, 161, 7);}
 /* Changing the color to header 1 */
 h1 {color: black;}
 
+/* changing the color to the first paragraph */
+p {color: rgba(172, 34, 241, 0.781);}
 
-p {color: rgb(153, 2, 184);}
+/* Adding a secondary backgrund color */
+a {
+    background-color: rgb(235, 16, 0);
+    text-decoration: none;
+}
+
+ul {background-color: rgb(233, 161, 7);}
 
 
-a {background-color: rgb(235, 16, 0);}
+li {color: rgb(172, 34, 241, 0.781);}
+
+
