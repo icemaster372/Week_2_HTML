@@ -22,8 +22,12 @@ ul {background-color: rgb(233, 161, 7);}
 li {color: rgb(172, 34, 241, 0.781);
     font-weight: bold;
 }
-/* changed the color to the scond font and chaning the font */
+/* changed the color to the scond font and changing the font */
 h2 {color: rgb(172, 34, 241, 0.781);
 font-weight: bold;}
 
 
+.fav-section {background-color: rgba(2, 0, 3, 0.781);
+
+
+}
