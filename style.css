@@ -1,6 +1,10 @@
 /* adding color to the body of the webpage and changing the font */
 body {background-color: rgb(233, 161, 7);
 font-weight: bold;}
+padding: 30px;
+
+
+
 
 /* Changing the color to header 1 */
 h1 {color: black;}
